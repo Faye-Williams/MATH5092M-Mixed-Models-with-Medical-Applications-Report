@@ -1,6 +1,6 @@
 # Mixed-Models-with-Medical-Applications-Report
 
-Data analysis on Serial Killer data set 
+Data analysis on Serial Killer data set (CWsample.RData)
 
 Level 3 - Investigating the influence of state on US serial killer’s age at last kil
 
